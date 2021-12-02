@@ -34,7 +34,7 @@ const part1 = (input) => {
 
 // Execute function for part1 of the problem
 const result1 = part1(getInput)
-console.log(`Part 1: ... = ${result1}`)
+console.log(`Part 1: You get = ${result1}, if you multiply your final horizontal position by your final depth`)
 
 
 // Defined function for part2 of the problem
@@ -68,7 +68,7 @@ const part2 = (input) => {
 
 // Execute function for part1 of the problem
 const result2 = part2(getInput)
-console.log(`Part 2: ... = ${result2}`)
+console.log(`Part 2: You get = ${result2}, if you multiply your final horizontal position by your final depth`)
 
 // export default {
 //   part1,

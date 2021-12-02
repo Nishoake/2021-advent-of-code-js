@@ -16,7 +16,7 @@ const part1 = (input) => {
 
 // Execute function for part1 of the problem
 const result1 = part1(getInput)
-console.log(`Part 1: ... = ${result1}`)
+console.log(`Part 1: ${result1} measurements are larger than the previous measurement`)
 
 
 // Defined function for part2 of the problem
@@ -32,7 +32,7 @@ const part2 = (input) => {
 
 // Execute function for part1 of the problem
 const result2 = part2(getInput)
-console.log(`Part 2: ... = ${result2}`)
+console.log(`Part 2: ${result2} sums are larger than the previous sum`)
 
 // export default {
 //   part1,
