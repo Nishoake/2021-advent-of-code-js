@@ -6,7 +6,7 @@ Check the problems and calendar out at: <https://adventofcode.com/2021>
 
 In the project directory, you can run:
 
-### `DAY=## npm new`
+### `DAY=## npm run new`
 
 This will create a new directory with a copy of all the files from the template directory.
 

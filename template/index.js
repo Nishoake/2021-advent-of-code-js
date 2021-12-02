@@ -1,4 +1,5 @@
 const Input = require('./input')
+// const Input = require('./input_sample')
 
 // Parsing the input as an Array of numbers
 const getInput = Input.sample.split('\n').map(Number)
