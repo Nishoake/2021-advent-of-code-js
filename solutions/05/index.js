@@ -66,7 +66,7 @@ const part1 = () => {
 
 // Execute function for part1 of the problem
 const result1 = part1()
-console.log(`Part 1: ... = ${result1}`)
+console.log(`Part 1: When considering horizontal and vertical lines there are ${result1} points where at least two lines overlap`)
 
 
 // Defined function for part2 of the problem
@@ -170,7 +170,7 @@ const part2 = () => {
 
 // Execute function for part1 of the problem
 const result2 = part2()
-console.log(`Part 2: ... = ${result2}`)
+console.log(`Part 2: When considering horizontal, vertical and diagonal lines there are ${result2} points where at least two lines overlap`)
 
 // export default {
 //   part1,
