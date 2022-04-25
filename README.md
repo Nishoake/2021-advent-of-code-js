@@ -17,3 +17,13 @@ Please note: To have a directory for a specific day make sure to include the nth
 This will run the code for a specific day and display the results on the command line.
 
 Please note: Include the nth day in the command, for example 'DAY=01 npm run execute'
+
+### `npm run git -- "INSERT MSG"`
+
+This will commit your changes to your local git repo.
+
+Please note: Add the commit message after the two dashes --
+
+### `npm run postgit`
+
+This will push the commits from your local repo to all your other non-local repos ex. GitHub repo
