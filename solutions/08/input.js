@@ -1,5 +1,5 @@
 module.exports = {
-  signal: `fcdeba edcbag decab adcefg acdfb gdcfb acf fabe fa eacfgbd | aefb cfa acf cdabf
+  signal: `  fcdeba edcbag decab adcefg acdfb gdcfb acf fabe fa eacfgbd | aefb cfa acf cdabf
   adbec fabeg fgda gafedb fadeb cdebgf cfaebdg fd bdf cgfbae | ebdfga fbd bdagcef dfb
   cagefd fegabc gbde fcagebd bcedf gefcd bec cefbdg dfabc eb | gdeb dgbe defcb ebc
   cegbf acfeb cafde ab abfecd ecagfd edbcga adbf ecfadgb abc | degafc gefbc ab adcef
